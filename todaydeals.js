@@ -1,0 +1,86 @@
+export const todaydeal = [
+  {
+    img: "https://m.media-amazon.com/images/I/41oVDGw5vQL._AC_SY200_.jpg",
+    discount: "31",
+    dealofday: "Deal of the day",
+    desc: "Laptops Fest Summer Deals - Save More with No Cost EMI & Additional Exchange ",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41dgHDQs4RL._AC_SY200_.jpg",
+    discount: "38",
+    dealofday: "Deal of the day",
+    desc: "Gaming Laptops starting INR 49990 - No Cost EMI & Exchange Available ",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/31RwE3ltrQL._AC_SY200_.jpg",
+    discount: "60",
+    dealofday: "Deal of the day",
+    desc: "Summercool Offers on Oneplus and Oppo Accessories",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/31Ri-FAMBUL._AC_SY200_.jpg",
+    discount: "62",
+    dealofday: "Deal of the day",
+    desc: "Apple Airpods starting Rs.9999",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41xNB9WGLDL._AC_SY200_.jpg",
+    discount: "29",
+    dealofday: "Deal of the day",
+    desc: "Watches Deal of the Day",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/81TBkVDGeGL._AC_SY200_.jpg",
+    discount: "38",
+    dealofday: "Deal of the day",
+    desc: "Bata,Hush Puppies  & more",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/31Ty0lRKmgL._AC_SY200_.jpg",
+    discount: "42",
+    dealofday: "Deal of the day",
+    desc: "Oppo Pad on Deal",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/71OasErvOjL._AC_SY200_.jpg",
+    discount: "31",
+    dealofday: "Deal of the day",
+    desc: "Weights and Dumbbells:kore",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/51PsXL4ZB5L._AC_SY200_.jpg",
+    discount: "61",
+    dealofday: "Deal of the day",
+    desc: "Best Deals on Mobility Products by Kosmocare",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41hSfrf2-CL._AC_SY200_.jpg",
+    discount: "75",
+    dealofday: "Deal of the day",
+    desc: "Juicer Mixer Ggrinder from Top Brands",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41OhIxz-tOL._AC_SY200_.jpg",
+    discount: "25",
+    dealofday: "Deal of the day",
+    desc: "Best deal on Mobile",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/51Jgbueo0CL._AC_SY200_.jpg",
+    discount: "49",
+    dealofday: "Deal of the day",
+    desc: "Best offers on FixDerma",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41OXzcAqB1L._AC_SY200_.jpg",
+    discount: "44",
+    dealofday: "Deal of the day",
+    desc: "Mega Price drop: Best offers on top selling All-in-one desktops from HP, Lenovo, Apple & more",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/51kdwtY1KvL._AC_SY200_.jpg",
+    discount: "37",
+    dealofday: "Deal of the day",
+    desc: "ply wood,wood paint",
+  },
+];
